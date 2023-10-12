@@ -70,3 +70,5 @@ let player={
 }
 let playerEl=document.getElementById("player-el")
 playerEl.textContent=player.name + " : " + player.chips
+
+console.log("added a new line for a new feature branch");
